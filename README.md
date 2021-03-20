@@ -2,16 +2,16 @@
 I have implemented all the machine learning algorithms from scratch using only inbuilt library (Numpy). 
 
 ## 1. Regression
-    1.lineaar Regression
-    2.Ridge Regression
-    3.Lasso Regression
+    ### 1.lineaar Regression
+    ### 2.Ridge Regression
+    ### 3.Lasso Regression
 
 ## 2. Classification
-    6.Logistic Regression
-    7.Decision Tree
-    8.Random Forest
-    9.K-Nearest Neighbour
-    10.Naive Bayes Classifier
+    1.Logistic Regression
+    2.Decision Tree
+    3.Random Forest
+    4.K-Nearest Neighbour
+    5.Naive Bayes Classifier
    
 ## 3. Clustering
     1.K-Mean Clustering
