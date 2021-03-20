@@ -2,9 +2,9 @@
 I have implemented all the machine learning algorithms from scratch using only inbuilt library (Numpy). 
 
 ## 1. Regression
-    ### 1.lineaar Regression
-    ### 2.Ridge Regression
-    ### 3.Lasso Regression
+     1.lineaar Regression
+     2.Ridge Regression
+     3.Lasso Regression
 
 ## 2. Classification
     1.Logistic Regression
